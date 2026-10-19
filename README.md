@@ -1,4 +1,4 @@
-# Jeff Hoffman
+# Jeffery Hoffman
 
 Senior software engineer in Charlotte, NC. I specialize in enterprise API integrations and agent-orchestrated software development.
 
